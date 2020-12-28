@@ -1,5 +1,5 @@
 function newfun(a, b){
-    let total = [''];
+    let total = 0;
 
     for (let i = 0; i < a.length; i++) {
         const element = a[i];
