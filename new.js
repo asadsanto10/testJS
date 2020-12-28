@@ -15,8 +15,8 @@ const number = 5;
 console.log(newfun(ar, number));
 
 
-// I may not be able to at that time but I may be able to try later
 //  second soluation
+// I was able to try later
 function totalArr(a, b){
     let total = 0;
 
